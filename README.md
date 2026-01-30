@@ -809,4 +809,11 @@ For issues, questions, or contributions, please refer to the project repository 
 ---
 
 **Career Navigator** - Empowering students to navigate their career journey with confidence and clarity.
+## License:
+
+This project is licensed under the **MIT License**.
+
+© 2024 **Rukmini Vardhan Boinapalli**
+
+
 
