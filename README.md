@@ -1,12 +1,12 @@
 # Career Navigator
 
-Career Navigator is a comprehensive career development platform designed to help students navigate their career journey with AI-powered tools, mentorship opportunities, and personalized guidance. The platform connects students with experienced mentors and provides various tools to enhance their career readiness.
+Career Navigator is a complete career guidance platform designed to help students navigate their career journey with AI-powered tools based upon psychometric analysis, mentorship opportunities, and personalized guidance. The platform connects students with experienced mentors and provides various tools to enhance their career readiness.
 
 ## What is Career Navigator?
 
 Career Navigator is a full-stack web application that serves as a one-stop solution for students' career development needs. It combines artificial intelligence, mentorship programs, and interactive tools to help students:
 
-- Discover their career interests and strengths through assessments
+- Discover their career interests and strengths through assessments like apptitude and the personality tests
 - Build professional resumes and cover letters
 - Practice interview skills with AI-powered mock interviews
 - Connect with experienced mentors for personalized guidance
@@ -150,7 +150,7 @@ Career Navigator is a full-stack web application that serves as a one-stop solut
 
 ## Technology Stack
 
-This section provides a comprehensive overview of all technologies used in the Career Navigator platform, explaining **why** each technology was chosen, **how** it's implemented, and **where** it's used in the codebase.
+This section provides a comprehensive overview of all technologies used in the Career Navigator platform, explaining why each technology was chosen, how it's implemented, and where it's used in the codebase.
 
 ### Frontend Technologies
 
