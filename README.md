@@ -813,7 +813,7 @@ For issues, questions, or contributions, please refer to the project repository 
 
 This project is licensed under the **MIT License**.
 
-© 2024 **Rukmini Vardhan Boinapalli**
+© 2026 **Rukmini Vardhan Boinapalli**
 
 
 
